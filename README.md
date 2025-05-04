@@ -1,6 +1,6 @@
 # University-Management-System
  WPF and ASP.NET-based University Management System developed in C# with MySQL for student, faculty, and administrative operations.
-![image_alt](https://github.com/Amnakhaan/University-Management-System/blob/c105f62cb2ebd12ae8a117adafaea7d73236d6e2/onestop-github-header-image.png)
+![image_alt](onestop-github-header-image.png)
 
 The University Management System is a robust software solution built in C# to streamline various university operations, such as degree issuance, student services, and administrative processes. The system enhances efficiency, minimizes errors, and provides an improved experience for students and staff through automated workflows and a user-friendly interface.
 
